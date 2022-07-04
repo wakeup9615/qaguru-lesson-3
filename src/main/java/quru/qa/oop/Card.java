@@ -65,5 +65,4 @@ public abstract class Card {
 
     protected abstract boolean isCountryValidForTheseCard(Country country);
 
-
 }
