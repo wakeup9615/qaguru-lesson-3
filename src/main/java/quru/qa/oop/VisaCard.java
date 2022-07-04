@@ -9,5 +9,3 @@ public class VisaCard extends Card {
         return true;
     }
 }
-
-
